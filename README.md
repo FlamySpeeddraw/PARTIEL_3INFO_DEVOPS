@@ -5,6 +5,11 @@ Ce dépôt contient un projet Python simple avec :
 - Des fonctions simples
 - Des tests unitaires pour valider le comportement de la fonction.
 
+## Workflows GitHub Actions
+
+- [![Test CI](https://github.com/FlamySpeeddraw/PARTIEL_3INFO_DEVOPS/actions/workflows/test.yml/badge.svg)](https://github.com/FlamySpeeddraw/PARTIEL_3INFO_DEVOPS/actions/workflows/test.yml) : Vérifie que les tests unitaires passent correctement.
+- [![Linter CI](https://github.com/FlamySpeeddraw/PARTIEL_3INFO_DEVOPS/actions/workflows/linter.yml/badge.svg)](https://github.com/FlamySpeeddraw/PARTIEL_3INFO_DEVOPS/actions/workflows/linter.yml) : Vérifie la qualité du code avec un linter.
+
 ## Installation
 
 1. Clonez ce dépôt :
